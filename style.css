@@ -1,0 +1,156 @@
+@import "css/default.css";
+
+th{
+	font-weight:bold;
+	text-align:left;
+}
+
+html{
+	display:block;
+	position:relative;
+	width:100%;
+	height:100%;
+}
+	body{
+		background:#f7f7f7;
+		display:block;
+		position:relative;
+		width:100%;
+		height:100%;
+		
+		margin:0px;
+	}
+
+	#page{
+		display:block;
+		position:relative;
+		width:100%;
+		height:auto;
+		margin:0 auto;
+	}
+
+		#branding{
+			background:#f7f7f7;
+			display:block;
+			position:relative;
+			width:100%;
+			height:auto;
+		}
+		
+			hgroup{
+				display:block;
+				position:relative;
+				padding:20px;
+			}
+		
+				#site-title{display:block; color:#000000; text-decoration:none; margin-bottom:15px;}
+				
+				#access{}	
+					#access ul{margin:0px;padding:0px;}
+						#access ul li{list-style:none; margin:0px;}
+							#access ul li a{color:#000000; text-decoration:none;}
+	
+		#main{
+			background:#ffffff;
+			display:block;
+			position:relative;
+			height:auto;
+			min-height:500px;
+			padding:20px;
+		}		
+			
+			#primary{}
+			
+				.container{}
+			
+					.content{}	
+				
+						.entry-header{}
+					
+							.entry-title{font-size:1.3em; font-weight:bold;}
+							
+						.entry-content{}
+						
+							.right-content, .left-content{display:inline; position:relative; width:45%; float:left;}							
+							
+			
+			#secondary{
+				display:block;
+				position:relative;
+				float:left;
+				width:250px;
+				height:auto;
+			}
+				
+				#side-access{
+					display:block;
+					position:relative;
+				}
+					
+					#side-access ul{}
+						
+						#side-access ul li{}
+							
+							#side-access ul li a{}			
+		#colophon{
+			background:#f7f7f7;
+			display:block;
+			position:relative;
+			width:100%;
+			height:30px;
+		}
+		
+			.copyright{
+				display:block;
+				position:absolute;
+				bottom:5px;
+				left:20px;
+				color:#777777;
+				font-size:10px;
+				
+			}
+			
+			#footer-access{}
+				
+				#footer-access ul{}			
+					
+					#footer-access ul li{}
+					
+						#footer-access ul li a{}
+						
+#cover{
+	background:#ffffff;
+	display:block;
+	position:absolute;
+	width:100%;
+	height:100%;
+	z-index:100;
+}
+
+/**
+ *	CKEditor editables are automatically set with the "cke_editable" class
+ *	plus cke_editable_(inline|themed) depending on the editor type.
+ */
+
+/* Style a bit the inline editables. */
+.cke_editable.content_container
+{
+	cursor: pointer;
+}
+
+/* Once an editable element gets focused, the "cke_focus" class is
+   added to it, so we can style it differently. */
+.cke_editable.content_container.cke_focus
+{
+	box-shadow: inset 0px 0px 20px 3px #ddd, inset 0 0 1px #000;
+	outline: none;
+	background: #eee;
+	cursor: text;
+}
+
+/* Avoid pre-formatted overflows inline editable. */
+.content_container pre
+{
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}

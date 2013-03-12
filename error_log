@@ -1,0 +1,20 @@
+[07-Mar-2013 04:42:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[07-Mar-2013 04:42:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[08-Mar-2013 00:44:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[08-Mar-2013 00:44:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[08-Mar-2013 03:56:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[08-Mar-2013 03:56:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[08-Mar-2013 03:57:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[08-Mar-2013 03:57:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[08-Mar-2013 04:43:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[08-Mar-2013 04:43:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[11-Mar-2013 03:13:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[11-Mar-2013 03:13:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[12-Mar-2013 01:25:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[12-Mar-2013 01:25:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[12-Mar-2013 02:09:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/libellec/public_html/newsletter/class/conn.php on line 12
+[12-Mar-2013 02:09:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/libellec/public_html/newsletter/class/conn.php on line 12
+[12-Mar-2013 02:10:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[12-Mar-2013 02:10:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[12-Mar-2013 02:31:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41
+[12-Mar-2013 02:31:58] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/libellec/public_html/newsletter/class/conn.php on line 41

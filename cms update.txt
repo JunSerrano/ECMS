@@ -1,0 +1,121 @@
+Template Module 10%
+	
+	Sample Layout			- 100%
+	Working Layout			- 100%			*need to redo templay layout
+	
+Text Editor Module 30%
+	
+	Sample Text Editor
+		Static Content		- 100%
+		Editable Content	- 100%
+		Dynamic Variable	- 100%			
+		Save Content		- 100%
+		Edit Content		- 100%
+		Update Content		- 100%
+		Output Content		- 100%
+	kceditor Uploader		- 100%
+	Settings				- 100%			*need to load settings for ckeditor
+		
+CMS Module 30%
+	MySql Database			- 100%			*need to redo table
+	Save/Load/Upload		- 100%			*need to get value from text editor	
+	Generate Output			- 100%			**need to finish tom
+	Template Page			- 100%			*need to add save and edit for template layout textarea
+	Campaign Page			- 100%
+	Editor Page				- 100%
+	
+Integration Module 30%
+	Template - texteditor	- 100%
+	texteditor - cms		- 100%
+	
+===========================================================================================================
+UPDATES
+===========================================================================================================
+*** ----
+**	HARD
+*	MEDIUM
+
+01 - 02
+modularize development
+base template for cms
+create database
+sql connection *
+classes **
+actions **
+page template
+what editor to use **
+ckeditor and fckeditor 
+layout
+study ckeditor and fckeditor api and code **
+
+0214
+fix passing of variables from javascript to php **
+pass value from editor to class editor.php ready to pass value to database
+update content on editor
+
+0215 
+get value from database to editor
+display data from database to editor **
+output value integration on editor to cms *
+
+0218
+combine editor page to campaign page **
+editor class
+editor actions
+edit database *
+
+0219
+campaign page classes and actions **
+integrate texteditor - cms **
+integrate template - texteditor *
+save data in database *
+edit data in database *
+load data in database *
+fckeditor upload files
+
+0220
+template insert layout **
+generate newsletter html *
+fix some load script problem **
+
+0221
+finish ckeditor settings add color palette and styles 
+load button problem with script fix using EOL
+fix delay on submit button
+
+0304
+create template with proper coding ** 
+
+0305
+fixed editor page loading all save data *** check how to sql fetch data
+
+0306
+provide new layout ***
+
+0307
+use full ckeditor to add new buttons
+fix insert other character in database
+add display template at campaign page **
+
+0312
+bugs error on loading saved campaign
+
+=========================
+GOAL
+=========================
+description for template
+add name for campaign
+display link of campaign
+
+=========================
+BUGS***
+=========================
+when load button is click 	does not accept	<br>, <ul></ul>, $nsbp;, \n, \ - DONE
+sometimes button does not submit - DONE
+template page error - DONE
+Editor Page does not save all content - DONE
+does not save other character in database - DONE
+font family error uses ' ' - DONE
+when going directly to page editor shows sql error
+if a content_container is removed from a working template error 
+

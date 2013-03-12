@@ -1,0 +1,45 @@
+body{ font-size:14px; }
+input, textarea {}
+h1, h2, h3, h4, h5, h6 {}
+div{}
+p, q {}
+a{}
+ul {}
+ol {}
+ul {}
+ol {}
+ol ol {}
+ol ol ol {}
+ol ol ol ol {}
+ul ul, ol ol, ul ol, ol ul {}
+dl{}
+dt{}
+dd{}
+b, strong {
+	font-weight:bold;
+}
+cite, em, i {}
+blockquote em, blockquote i, blockquote cite {}
+pre {}
+code {}
+abbr, acronym {}
+ins {}
+sup,
+sub {}
+sup {}
+sub {}
+
+/* Pullquotes
+-------------------------------------------------------------- */
+blockquote{ color:#000000; }
+
+blockquote.left {
+	float: left;
+	margin-left:0;
+	text-align: right;
+}
+blockquote.right {
+	float: right;
+	margin-right:0;
+	text-align: left;
+}
